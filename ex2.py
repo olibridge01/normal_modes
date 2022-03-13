@@ -174,7 +174,6 @@ def user_help():
 
 # Create empty list to add geometry data
 geoms = []
-# path = '/Users/olibridge/Documents/Python/chemistry/exercise2/H2Soutfiles/'
 filepath = os.path.dirname(os.path.abspath(__file__))
 
 if len(sys.argv) != 2 or os.path.exists(filepath + sys.argv[1]) == False:
