@@ -4,6 +4,7 @@ Oli Bridge, <ob344@cam.ac.uk>
 St Catharine's College, Cambridge
 
 ## Exercise 2: Data processing and plotting
+### Potential Energy Surface Plotter and Normal Mode Calculator
 
 In this exercise, a program was written that calculates the equilibrium geometry and normal modes for a triatomic molecule (H2O or H2S). It also plots the potential energy surface as a function of bond length and bond angle. The program takes as an input the name of the directory containing Gaussian output files for the triatomic at various geometries.
 
