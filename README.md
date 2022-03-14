@@ -8,7 +8,7 @@ St Catharine's College, Cambridge
 
 In this exercise, a program was written that calculates the equilibrium geometry and normal modes for a triatomic molecule (H2O or H2S). It also plots the potential energy surface as a function of bond length and bond angle. The program takes as an input the name of the directory containing Gaussian output files for the triatomic at various geometries.
 
-The program will display a PE surface, and a quadratic fit plot (for determining the normal modes) for small oscillations in r and theta. These figures are also saved as .pdf files to the directory containing the python file.
+The program will display a PE surface, and a quadratic fit plot (for determining the normal modes) for small oscillations in r and theta. These figures are also saved as .pdf files to the directory containing the python file. Once a figure is displayed while running the program, close the figure to save it and let the program continue.
 
 The program requires the output file directories (H2Ooutfiles and H2Soutfiles) from Moodle as an input (these can be found in the Programming Practical section on Moodle).
 
