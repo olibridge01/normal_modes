@@ -1,4 +1,4 @@
-# Part II Chemistry Programming Course
+# Part II Chemistry Programming
 Oli Bridge, <ob344@cam.ac.uk>
 
 St Catharine's College, Cambridge
